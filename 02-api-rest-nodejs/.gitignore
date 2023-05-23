@@ -2,3 +2,4 @@ db/app.db
 node_modules
 pnpm-lock.yaml
 .env
+.env.test
