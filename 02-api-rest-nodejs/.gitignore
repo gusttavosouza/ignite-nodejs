@@ -1,5 +1,13 @@
-db/app.db
+# Dependencies
 node_modules
 pnpm-lock.yaml
+
+# Database
+db/*.db
+
+# Environment
 .env
 .env.test
+
+# Build
+build
