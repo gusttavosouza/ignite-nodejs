@@ -9,6 +9,7 @@
         "singleQuote": true,
         "semi": true
       }
-    ]
+    ],
+    "camelcase": "off"
   }
 }
